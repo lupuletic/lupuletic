@@ -19,7 +19,7 @@
 - 🚀 **Performance & observability mantra** — low **p90 latency (< 100 ms)**, crystal-clear Dynatrace + Grafana dashboards, automated alerting, and flame-graph deep dives for fun.  
 - 🤖 **AI innovation** — building RAG pipelines and agentic apps with Google Agent Development Kit, AI Agents Builder, Vertex AI and custom **Model Context Protocols**.  
 - 🧩 **Full-stack mindset** — hands-on across frontend, backend, infra and data; always learning the next wave of tech.  
-- 🏆 **Recognition** — THG Leadership Award (2022) • Q1 ’25 Innovation Award  
+- 🏆 **Recognition** — THG Leadership Award (2023) • H1 Innovation Award (2025)
 
 ---
 
