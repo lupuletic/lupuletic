@@ -49,13 +49,6 @@
 
 ---
 
-## 📊 GitHub stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lupuletic&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-</p>
-
----
-
 ## 🤝 Connect
 <a href="https://www.linkedin.com/in/catalin-alexandru-lupuleti/">
   <img src="https://img.shields.io/badge/LinkedIn-Message_me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
